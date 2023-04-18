@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Johrel!!!</h1>
-<h3 align="center">Trabalho com BI e sou graduando na pós da PUC-Minas na área de Ciência de Dados e Big Data</h3>
+<h3 align="center">Trabalho com BI e sou graduando na pós da PUC-Minas na
+área de Ciência de Dados e Big Data</h3>
 
 - 🔭 Atualmente trabalho como Analista de BI no **projeto de risco operacional do Bradesco**
 
