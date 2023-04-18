@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de BI no **projeto de risco operacional do Bradesco**
 
-- 🌱 Atualmente estou aprendendo sobre **ML, MlOps, DevOps, DeepLearning, IA, Engenharia de Dados, Engenharia de IA e Big Data.**
+- 🌱 Estou aprendendo sobre **ML, MlOps, DevOps, DeepLearning, IA, Engenharia de Dados, Engenharia de IA e Big Data.**
 
 - 💬 Me pergunte sobre **BI, Microstrategy, Power BI, SAS, SQL, Python, R e tudo que envolva tecnologia no geral, se eu não souber, buscamos no ChatGPT! haha!!**
 
