@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Johrel!!!</h1>
 <h3 align="center">Trabalho com BI e sou graduando na pós da PUC-Minas na área de Ciência de Dados e Big Data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johrel&label=Profile%20views&color=0e75b6&style=flat" alt="johrel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johrel" alt="johrel" /></a> </p>
-
 - 🔭 Atualmente trabalho como Analista de BI no **projeto de risco operacional do Bradesco**
 
 - 🌱 Atualmente estou aprendendo sobre **ML, MlOps, DevOps, DeepLearning, IA, Engenharia de Dados, Engenharia de IA e Big Data.**
@@ -19,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/johrel-martins-pereira-999146108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johrel-martins-pereira-999146108/" height="30" width="40" /></a>
 <a href="https://instagram.com/jonfres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonfres" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucfyu3plj-nxtntnucbxayvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfyu3plj-nxtntnucbxayvg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hannel/ucfyu3plj-nxtntnucbxayvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hannel/ucfyu3plj-nxtntnucbxayvg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
